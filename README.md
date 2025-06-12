@@ -4,7 +4,7 @@
 
 HealthConnect is a full-stack community platform built for medical patients to **share their recovery journeys**, **consult with verified doctors for free**, and **join local health events**. It’s designed to offer hope, connection, and support for those navigating serious health challenges like cancer.
 
-![HealthConnect Screenshot](./Screenshot%202025-06-12%20212657.png)
+![HealthConnect Screenshot](./image.png)
 
 ---
 
@@ -69,7 +69,7 @@ npm run dev  # or use concurrently
 
 > See the platform in action
 
-![Screenshot - Home Page](./Screenshot%202025-06-12%20212657.png)
+![Screenshot - Home Page](./image.png)
 
 ---
 
